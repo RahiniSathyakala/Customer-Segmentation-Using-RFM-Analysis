@@ -70,7 +70,7 @@ RFM analysis helps businesses better understand their customers and develop targ
 
 ---
 
-##Output
+## Output
 <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/80dd44c2-68a1-4a41-9ce5-99fe42b337f1" />
 <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/db97f5d5-78ab-4177-8504-d29a0ee1a29a" />
 <img width="1120" height="1020" alt="Image" src="https://github.com/user-attachments/assets/09a3b84e-fe24-4405-9d8d-959056b7b184" />
